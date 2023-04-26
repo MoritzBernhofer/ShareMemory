@@ -1,0 +1,15 @@
+C:\Users\flyti\Desktop\ToDo\ShareMemory\ShareMemory\ShareMemory\obj\Debug\net7.0\ShareMemory.csproj.AssemblyReference.cache
+C:\Users\flyti\Desktop\ToDo\ShareMemory\ShareMemory\ShareMemory\obj\Debug\net7.0\ShareMemory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\flyti\Desktop\ToDo\ShareMemory\ShareMemory\ShareMemory\obj\Debug\net7.0\ShareMemory.AssemblyInfoInputs.cache
+C:\Users\flyti\Desktop\ToDo\ShareMemory\ShareMemory\ShareMemory\obj\Debug\net7.0\ShareMemory.AssemblyInfo.cs
+C:\Users\flyti\Desktop\ToDo\ShareMemory\ShareMemory\ShareMemory\obj\Debug\net7.0\ShareMemory.csproj.CoreCompileInputs.cache
+C:\Users\flyti\Desktop\ToDo\ShareMemory\ShareMemory\ShareMemory\bin\Debug\net7.0\ShareMemory.exe
+C:\Users\flyti\Desktop\ToDo\ShareMemory\ShareMemory\ShareMemory\bin\Debug\net7.0\ShareMemory.deps.json
+C:\Users\flyti\Desktop\ToDo\ShareMemory\ShareMemory\ShareMemory\bin\Debug\net7.0\ShareMemory.runtimeconfig.json
+C:\Users\flyti\Desktop\ToDo\ShareMemory\ShareMemory\ShareMemory\bin\Debug\net7.0\ShareMemory.dll
+C:\Users\flyti\Desktop\ToDo\ShareMemory\ShareMemory\ShareMemory\bin\Debug\net7.0\ShareMemory.pdb
+C:\Users\flyti\Desktop\ToDo\ShareMemory\ShareMemory\ShareMemory\obj\Debug\net7.0\ShareMemory.dll
+C:\Users\flyti\Desktop\ToDo\ShareMemory\ShareMemory\ShareMemory\obj\Debug\net7.0\refint\ShareMemory.dll
+C:\Users\flyti\Desktop\ToDo\ShareMemory\ShareMemory\ShareMemory\obj\Debug\net7.0\ShareMemory.pdb
+C:\Users\flyti\Desktop\ToDo\ShareMemory\ShareMemory\ShareMemory\obj\Debug\net7.0\ShareMemory.genruntimeconfig.cache
+C:\Users\flyti\Desktop\ToDo\ShareMemory\ShareMemory\ShareMemory\obj\Debug\net7.0\ref\ShareMemory.dll
